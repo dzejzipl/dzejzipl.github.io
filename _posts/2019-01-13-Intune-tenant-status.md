@@ -8,6 +8,7 @@ tags:
     - news
     - status
 ---
+![Intune tenant status]({{ site.url }}{{ site.baseurl }}/assets/images/posts/intune-tenant-status/1.png)
 Couple days ago Microsoft was announced new version of Intune – 1812. There was a couple news for Administrators, but one is most interesting. It is:
 
 **Tenant status.**
