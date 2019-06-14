@@ -9,7 +9,6 @@ tags:
     - self service
 ---
 ![Error 0xc1036501 while Self-Service at AutoPilot]({{ site.url }}{{ site.baseurl }}/assets/images/posts/deploying-wi-fi-profile-connection-using-intune/top.png)
-
 Hi all.
 
 Last time I was playing with Self-Service AutoPilot, where device is deploying automatically without any interaction from end user / administrator.

@@ -6,7 +6,6 @@ tags:
     - Random
 ---
 ![Hello world!]({{ site.url }}{{ site.baseurl }}/assets/images/posts/hello-world/404.jpg)
-
 Yep, it’s my first blog on the English version of my personal blog. Everything what I wrote on the Polish version of blog – [https://dzejzibloguje.pl](https://dzejzibloguje.pl) will be published here too.
 
 About what I will write on future? Especially about Intune – its future of New Device Management.

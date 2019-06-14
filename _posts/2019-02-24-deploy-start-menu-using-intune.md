@@ -8,7 +8,6 @@ tags:
 
 ---
 ![Deploy Start Menu using Intune]({{ site.url }}{{ site.baseurl }}/assets/images/posts/deploying-wi-fi-profile-connection-using-intune/top.png)
-
 Start menu on fresh installation of Windows is ugly. Is very ugly, just see on my screen:
 
 ![Deploy Start Menu using Intune]({{ site.url }}{{ site.baseurl }}/assets/images/posts/deploy-start-menu-using-intune/1.png)

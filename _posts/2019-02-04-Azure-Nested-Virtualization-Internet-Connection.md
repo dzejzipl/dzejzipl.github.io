@@ -11,7 +11,6 @@ tags:
     - windows server
 ---
 ![Azure Nested Virtualization - Internet Connection]({{ site.url }}{{ site.baseurl }}/assets/images/posts/Azure-Nested-Virtualization-Internet-Connection/top.jpg)
-
 Yesterday I created new machine on Azure with Windows on board –
 Standard D8s v3 (8 vcpus, 32 GB memory). It’s something big for me – previous I was used smaller machines. So, main target of that machine is virtualization. I’m preparing posts about Remote Desktop Services, so I needed one host where I install Hyper-V role, and on that Hyper-V I install 5 x Windows Server 2019.
 

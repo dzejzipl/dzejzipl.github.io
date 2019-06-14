@@ -8,7 +8,6 @@ tags:
 
 ---
 ![Deploying Wi-Fi profile connection using Intune]({{ site.url }}{{ site.baseurl }}/assets/images/posts/deploying-wi-fi-profile-connection-using-intune/top.png)
-
 On that post I want to show you how to deploy Wi-Fi profile using Intune. That means – user don’t need to know what is a password for our small Wi-Fi network.
 
 Let’s start!
