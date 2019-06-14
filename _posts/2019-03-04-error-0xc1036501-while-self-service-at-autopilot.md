@@ -8,7 +8,7 @@ tags:
     - intune
     - self service
 ---
-![Error 0xc1036501 while Self-Service at AutoPilot]({{ site.url }}{{ site.baseurl }}/assets/images/posts/Azure-Nested-Virtualization-Internet-Connection/top.jpg)
+![Error 0xc1036501 while Self-Service at AutoPilot]({{ site.url }}{{ site.baseurl }}/assets/images/posts/deploying-wi-fi-profile-connection-using-intune/top.png)
 
 Hi all.
 
