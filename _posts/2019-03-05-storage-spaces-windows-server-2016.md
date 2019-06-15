@@ -82,4 +82,4 @@ Jeżeli zostawimy zaznaczonego checkboxa na dole po zamknięciu tego kreatora od
 
 Kreator jest bardzo intuicyjny w obsłudze, więc nie będę robił jego screenshotów.
 
-Po jego zakończeniu mamy połączone dyski, możemy rozbudowywać i zmniejszać nasze storage pool. Mi się to akurat bardzo mocno przyda.
+Po jego zakończeniu mamy połączone dyski, możemy rozbudowywać i zmniejszać nasze storage pool. Mi się to akurat bardzo mocno przyda w moim domowym labie.
