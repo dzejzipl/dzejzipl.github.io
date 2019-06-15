@@ -107,17 +107,17 @@ analytics:
 # Site Author
 author:
   name             : "Jakub Piesik"
-  avatar           : # "/assets/images/aboutme/avatar.jpg"
-  bio              : "Test description"
+  avatar           : # "/assets/images/about_me.jpg"
+  bio              : "M365 in a Nutshell <3"
   location         : "Poland"
-  email            : # jakub@piesik.me 
+  email            : jakub@piesik.me 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: mailto:jakub@piesik.me 
+      url: mailto:jakub@piesik.me 
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://piesik.me"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/dzejzipl"
