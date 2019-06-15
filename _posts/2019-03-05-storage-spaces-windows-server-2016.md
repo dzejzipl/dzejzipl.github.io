@@ -1,5 +1,5 @@
 ---
-title: [PL] Storage Spaces – Windows Server 2016
+title: "[PL] Storage Spaces – Windows Server 2016"
 categories:
     - Windows Server
 tags:
