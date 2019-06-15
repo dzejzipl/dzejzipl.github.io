@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 ---
-# Couple words about me
+## Couple words about me
 
 ![About me]({{ site.url }}{{ site.baseurl }}/assets/images/about_me.jpg)
 
