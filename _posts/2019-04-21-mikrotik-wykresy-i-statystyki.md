@@ -7,7 +7,7 @@ tags:
     - statyski
     - PL post
 ---
-![Deploying Wi-Fi profile connection using Intune]({{ site.url }}{{ site.baseurl }}/assets/images/posts/deploying-wi-fi-profile-connection-using-intune/mikrotikTOP.png)
+![Mikrotik – wykresy i statystyki]({{ site.url }}{{ site.baseurl }}/assets/images/posts/top_images/mikrotikTOP.png)
 Ostatnio w moje rączki wpadło nowe urządzenie – **Mikrotik hap AC2**, o którym chciałbym wam trochę opowiedzieć w kilku wpisach.
 
 Na sam początek chciałbym wrzucić informację o wykresach, które może nam Mikrotik generować w celu rozpoznania, jakie obciążenie łącza, procesora, wykorzystanie pamięci i tym podobne generuje nasze urządzenie. Często w celach statystycznych, ale warto takie coś mieć w zapasie.
