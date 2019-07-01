@@ -7,7 +7,7 @@ tags:
     - konfiguracja
     - PL post
 ---
-![Mikrotik hap ac2 jako główny domowy router]({{ site.url }}{{ site.baseurl }}/assets/images/top_images/MikrotikTOP.jpg)Post ten jest nową wersją wpisu o [podstawowej konfiguracji Mikrotika](https://piesik.me/2017/05/14/podstawowa-konfiguracja-mikrotika/). Więc jeżeli przychodzicie z tamtego posta, to łapcie ulepszoną werję.
+![Mikrotik hap ac2 jako główny domowy router]({{ site.url }}{{ site.baseurl }}/assets/images/top_images/mikrotikTOP.jpg)Post ten jest nową wersją wpisu o [podstawowej konfiguracji Mikrotika](https://piesik.me/2017/05/14/podstawowa-konfiguracja-mikrotika/). Więc jeżeli przychodzicie z tamtego posta, to łapcie ulepszoną werję.
 
 W moje ręce wpadło nowe urządzenie, **Mikrotik hap ac2**, który ma posłużyć za domowy router o rozbudowanych funkcjach. Cena tego urządzenia patrząc na możliwości jest po prostu śmieszna, ponieważ udało mi się go kupić za około 280zł.
 
