@@ -7,7 +7,7 @@ tags:
     - Win32 Apps
     - PL post
 ---
-![Deployment Chrome za pomocą Intune]({{ site.url }}{{ site.baseurl }}/assets/images/top_images/IntuneTOP.jpg)
+![Deployment Chrome za pomocą Intune]({{ site.url }}{{ site.baseurl }}/assets/images/top_images/IntuneTOP.png)
 Długi czas temu do Intune weszła nowość, którą chciałbym dziś pokazać wam w praktyce, czyli deployment aplikacji Win32 za pomocą Intune.
 
 W poście tym chciałbym wam pokazać w jaki sposób dodać aplikację Google Chrome w pliku *.msi do naszej organizacji w taki sposób, aby była do zainstalowania przez Company Portal.
