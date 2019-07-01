@@ -15,7 +15,7 @@ Last time I was playing with Self-Service AutoPilot, where device is deploying a
 
 After creating profile on Intune, assigning to proper group and started deploying I received message that was problem while deploying etc.. Please contact with your administrator with error code:
 
-**0xc1036501**
+## 0xc1036501
 
 Everything what I was able to find on Internet was providing to More than just [ConfigMgr site](https://www.petervanderwoude.nl/) – direct link to post [here](https://www.petervanderwoude.nl/post/windows-autopilot-self-deploying-mode/) But on that site wasn’t provide much information how to fix that issue.
 
