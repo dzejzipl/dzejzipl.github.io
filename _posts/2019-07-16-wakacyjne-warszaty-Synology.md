@@ -7,7 +7,7 @@ tags:
     - Szkolenie
     - PL post
 ---
-![„[PL] „Wakacyjne Warsztaty Synology"]({{ site.url }}{{ site.baseurl }}/assets/images/top_images/SynologyTOP.png)Znacie taką fajną firmę jak Synology? Ja znam, używałem produkcyjnie ich sprzętu jak i ostatnio testowałem DS918+ i byłem bardzo zadowolony z tego urządzenia.
+![„[PL] „Wakacyjne Warsztaty Synology"]({{ site.url }}{{ site.baseurl }}/assets/images/top_images/SynologyTOP.jpg)Znacie taką fajną firmę jak Synology? Ja znam, używałem produkcyjnie ich sprzętu jak i ostatnio testowałem DS918+ i byłem bardzo zadowolony z tego urządzenia.
 
 Dlatego chciałbym Was poinformować, że firma [Fen.pl](https://b2b.fen.pl/) we współpracy z Polskim oddziałem Synology postanowiła zrobić serię webminarów, dzięki którym nauczymy się w pełni wykorzystywać potencjał urządzeń oraz aplikacji firmy Synology.
 
