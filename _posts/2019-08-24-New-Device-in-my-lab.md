@@ -9,7 +9,7 @@ tags:
 From sometime I was looking for new device with **physically** TPM 2.0 for my personal lab which I have on my home.
 My first decision was to buy some Surface 3 Pro from my colleague, but that device was old and without any guarantee. I was looking bunch of time and yesterday I decided to buy my second HP device - this time I decided to buy **HP ProDesk 600 G2 Desktop Mini**
 
-![„Meet my new device in my lab!"]({{ site.url }}{{ site.baseurl }}/assets/images/posts/2019-08-24-New-Device-in-my-lab/HPDevice.jpg)
+![„Meet my new device in my lab!"]({{ site.url }}{{ site.baseurl }}/assets/images/posts/New-Device-in-my-lab/HPDevice.jpg)
 
 Why that device instead of Surface Pro 3? Because on that Desktop computer I can add more RAM memory, change disk, processor, etc. And was cheaper that Surface 3.
 
