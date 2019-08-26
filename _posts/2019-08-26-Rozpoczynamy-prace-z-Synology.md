@@ -1,5 +1,5 @@
 ---
-title: "[PL] „Rozpoczynamy pracę z Synology"
+title: "[PL] Rozpoczynamy pracę z Synology"
 categories:
     - Synology
 tags:
