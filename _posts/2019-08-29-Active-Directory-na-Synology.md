@@ -8,9 +8,7 @@ tags:
     - Samba
     - PL post
 ---
-!["[PL] "Active Directory" na Synology NAS"](/assets/images/top_images/SynologyTOP.jpg)
-
-Znam bardzo dużą ilość firm, które dając komputer swojemu pracownikowi dają mu pełne prawa administratora, możliwość instalowania wszystkiego co chce, a także - brak backupu, bo ufają, że pracownik sam zadba o backup i bezpieczeństwo.
+!["[PL] "Active Directory" na Synology NAS"](/assets/images/top_images/SynologyTOP.jpg) Znam bardzo dużą ilość firm, które dając komputer swojemu pracownikowi dają mu pełne prawa administratora, możliwość instalowania wszystkiego co chce, a także - brak backupu, bo ufają, że pracownik sam zadba o backup i bezpieczeństwo.
 
 Sama idea **Active Directory** jest dla mnie bardzo ważna. Mamy pewną władzę nad urządzeniami, mamy możliwość personalizacji danego urządzenia. Mamy również możliwość zadbania o backup danych.
 
