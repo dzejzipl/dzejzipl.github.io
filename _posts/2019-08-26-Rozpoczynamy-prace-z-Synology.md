@@ -17,7 +17,7 @@ Pokrótce chciałbym wam jednak opowiedzieć o bohaterze dzisiejszego tekstu.
 
 Może zacznę inaczej - moje pierwsze wypakowanie tego urządzenia to było duże zdziwienie. Dlaczego to takie małe i czy ja u licha posiadam dyski 2,5', które mogę zamontować do tego NASa?
 
-Wcześniejszy testowany przeze mnie produkt DS819+ był pełnowymiarowy, czyli posiadał możliwość zamontowania dysków 2,5' jak i 3,5', tutaj natomiast możemy montować tylko dyski o mniejszej średnicy, co jak by nie patrzeć z początku mnie zatrzymało i musiałem zajrzeć do swoich archiwów sprzętowych w celu wygrzebania działających dysków, ale się udało.
+Wcześniejszy testowany przeze mnie produkt DS918+ był pełnowymiarowy, czyli posiadał możliwość zamontowania dysków 2,5' jak i 3,5', tutaj natomiast możemy montować tylko dyski o mniejszej średnicy, co jak by nie patrzeć z początku mnie zatrzymało i musiałem zajrzeć do swoich archiwów sprzętowych w celu wygrzebania działających dysków, ale się udało.
 
 Co ważne, mamy do użycia **6** zatok, w któych możemy zamontować dyski o maksymalnej wspólnej pojemności - **30TB**. Czy to dużo? Niezbyt, ale pamiętajmy, że jest to sprzęt domowy, a nie korporacyjny.
 
