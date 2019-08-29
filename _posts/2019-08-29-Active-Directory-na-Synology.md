@@ -1,5 +1,5 @@
 ---
-title: "[PL] "Active Directory" na Synology NAS"
+title: "[PL] Active Directory na Synology NAS"
 categories:
     - Synology
 tags:
