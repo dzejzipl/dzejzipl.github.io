@@ -25,6 +25,7 @@ Tak więc, aby uniknąć tego problemu chciałbym wam przedstawić alternatywę 
 Jak w poprzednim poście pisałem, wszystko oprę na Synology DS620 Slim.
 
 Założenia są proste:
+
 * Mamy posiadać Active Directory oparte na Sambie. Dla uproszczenia będę pisał **AD**
 * Użytkownicy co 180 dni mają zmieniać hasła
 * Dzięki wdrożeniu grup oraz użytkowników będę mógł łatwiej zarządzać dostępem do folderów
