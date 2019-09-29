@@ -2,14 +2,6 @@
 	"folders": [
 		{
 			"path": "."
-		},
-		{
-			"path": "C:\\temp\\powershell"
 		}
-	],
-	"settings": {
-		"cSpell.words": [
-			"intune"
-		]
-	}
+	]
 }
