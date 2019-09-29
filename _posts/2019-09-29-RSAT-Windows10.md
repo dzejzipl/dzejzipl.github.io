@@ -8,7 +8,7 @@ tags:
     - Samba
     - PL post
 ---
-!["[PL] Instalacja RSAT na Windows 10 - 1809 i wersje późniejsze"](/assets/images/top_images/Windows10TOP.jpg)Wraz z wersją 1809 Microsoft postanowił zmienić sposób instalacji narzędzi RSAT - **Remote Server Administrator Tools** na taki, z użyciem Powershella.
+!["[PL] Instalacja RSAT na Windows 10 - 1809 i wersje późniejsze"](/assets/images/top_images/Windows10Top.jpg)Wraz z wersją 1809 Microsoft postanowił zmienić sposób instalacji narzędzi RSAT - **Remote Server Administrator Tools** na taki, z użyciem Powershella.
 
 W poście tym chciałbym wam pokazać jak wpierw wyświetlić dostępne role do zainstalowania, a następnie jak je łatwo zainstalować.
 
