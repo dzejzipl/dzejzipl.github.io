@@ -8,7 +8,7 @@ tags:
     - Azure AD Connect
     - PL post
 ---
-![""[PL] Azure AD Connect"](/assets/images/top_images/AzureADTOP.jpg)A gdyby tak połączyć nasze środowisko lokalne z Azure AD?
+!["[PL] Azure AD Connect"](/assets/images/top_images/AzureADTOP.jpg)A gdyby tak połączyć nasze środowisko lokalne z Azure AD?
 
 W poście tym chciałbym pokazać jak połączyć AAD z lokalnym AD, dzięki czemu będziemy mogli mieć jedno środowisko.
 
