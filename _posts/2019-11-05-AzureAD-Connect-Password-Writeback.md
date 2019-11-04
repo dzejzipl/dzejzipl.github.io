@@ -28,7 +28,7 @@ Klikamy prawym przyciskiem na naszą domenę, wybieramy **Delegate Control**, w 
 
 !["[PL] Azure AD Connect - Password Writeback"](/assets/images/posts/AzureAD-Connect-Password-Writeback/03.png)
 
-W kroku **Select the permissions you want to delegate** zaznaczamy dwie pierwsze opcje czyli: 
+W kroku **Select the permissions you want to delegate** zaznaczamy dwie pierwsze opcje czyli:
 
 * General
 * Property-specific
@@ -46,6 +46,7 @@ Ostatnim krokiem, który musimy wykonać jest skonfigurowanie GPO, aby hasło ni
 > Źródło: [Microsoft Docs](https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-sspr-writeback)
 
 Dokonujemy tego w sposób:
+
 1) Otwieramy **Group Policy Management Editor**
 2) Edytujemy odpowiednią politykę GPO, ja edytuję domyślną
 3) Przechodzimy do: *Computer Configuration* > *Policies* > *Windows Settings* > *Security Settings* > *Account Policies* > **Password Policy** i edytujemy ustawienie: **Minimum password age** zgodnie z tym co na screenie:
