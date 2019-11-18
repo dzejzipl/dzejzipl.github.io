@@ -29,3 +29,5 @@ Wybieramy zastosowanie - dla mnie będzie to *General purpose file server*, okre
 !["[PL] Windows Server Data Deduplication"]({{ site.url }}{{ site.baseurl }}/assets/images/posts/Windows-Server-Data-Deduplication/04.png)
 
 I to by było na tyle. Zadanie zostało skonfigurowane, teraz już tylko poczekać na efekty i zobaczymy, ile miejsca oszczędzimy.
+
+A efekty są następujące: Po manualnym uruchomieniu skryptu, nie czekając na ten scheduler, oszczędziłem 51GB. Oczywiście, stracę je w momencie uruchomienia maszyn, które nie były używane, ale inne pójdą odstawkę.
