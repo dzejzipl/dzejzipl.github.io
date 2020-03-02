@@ -43,7 +43,9 @@ install-module -name az
 To install az module to manage our Azure environment.  After that, we can use the command: 
 
 ```powershell
-get-command *az* to display all commands which we can use to do necessary work. 
+get-command *az* 
 ```
+
+to display all commands which we can use to do necessary work. 
 
 Have fun!
