@@ -11,5 +11,5 @@ main:
     url: /categories/
   - title: "About"
     url: /about/
-    - title: "External Publications"
+  - title: "External Publications"
     url: /externalPublications/
