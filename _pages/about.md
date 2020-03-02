@@ -2,16 +2,14 @@
 permalink: /about/
 title: "About"
 ---
-## Couple words about me
+## Three words about me
 
-![About me]({{ site.url }}{{ site.baseurl }}/assets/images/about_me.jpg)
+### Microsoft 365 addicted.
 
-I'm working as L2 Desktop Support and I live in Wroclaw, Poland after moving from Lodz after 4,5 years.
+I'm writing posts about Microsoft 365 technologies, especially about Intune, Azure AD, Conditional Access, Microsoft Graph, etc.. 
 
-I'm blogging about everytything what I currently learn - could be Azure, SCCM, PowerSehll, Intune, Wordpress, but i'm trying to specialize only on Intune and it will be my primary posts categories.
+What I love to spend time on public speaks. Yes, that right. If you want to ask me to share my experience and provide some speech about one of the technologies which are written below you can always send me a DM on Twitter / email / Facebook.
 
-You can find me on Twitter, Facebook, LinkedIn etc - but preffered way to contact with me is email:
+I'm always opened to new cooperation. There is no bad idea, there is the only idea what was not sent to me ;)
 
-**jakub@piesik.me** 
-
-Thanks for reading and i'm waiting for any feedback from your site! :)
+The primary contact is the email: **jakub@piesik.me** 
