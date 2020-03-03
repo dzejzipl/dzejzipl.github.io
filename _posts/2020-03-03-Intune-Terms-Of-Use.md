@@ -17,7 +17,7 @@ But how to create that terms of use and assign it to our users?
 
 First, please logon to [Device Management](https://devicemanagement.portal.azure.com/) portal, open **Endpoint security** > **Conditional Access** > ***Terms of use**. We need to create a new one term:
 
-!["Microsoft Intune - Terms of use"](/assets/images/posts/Intune-Terms-Of-use/01.png)
+!["Microsoft Intune - Terms of use"](/assets/images/posts/Intune-Terms-Of-Use/01.png)
 
 We need to provide our name, display name for end-users, upload *.pdf files with proper languages (could be one or more), set up requirements for end-users to accept on all devices and expand rules. We can set up expiring rules, for example, I set up this for one year. What is important, in the end, I selected the option that I will create manually Conditional Access policy later.
 
