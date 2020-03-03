@@ -15,7 +15,7 @@ That will be the first of posts which will be related to Conditional Access.
 
 But how to create that terms of use and assign it to our users?
 
-First, please logon to [Device Management](https://devicemanagement.portal.azure.com/) portal, open **Endpoint security** > **Conditional Access** > ***Terms of use**. We need to create a new one term:
+First, please logon to [Device Management](https://devicemanagement.portal.azure.com/) portal, open **Endpoint security** > **Conditional Access** > ***Terms of use***. We need to create a new one term:
 
 !["Microsoft Intune - Terms of use"](/assets/images/posts/Intune-Terms-Of-Use/01.png)
 
@@ -25,7 +25,7 @@ And how to create this Conditional Access policy?
 
 First, open again Device Management Portal > **Endpoint Security** > **Conditional Access** > ***Policies*** and create a new one policy.
 
-!["Microsoft Intune - Terms of use"](/assets/images/posts/Intune-Terms-Of-use/02.png)
+!["Microsoft Intune - Terms of use"](/assets/images/posts/Intune-Terms-Of-Use/02.png)
 
 * Users and group: Please select to which users this policy should be applied. Please remember to **TEST ON SMALL GROUPS OF USERS**
 * Cloud apps or actions: I selected here to apply for all cloud apps, like Portal.Office.com / Exchange Online / Sharepoint, etc
@@ -37,6 +37,6 @@ Enable policy: I selected **On** because I'm testing it on small groups of users
 
 How does it look from the end-user site? For example like this:
 
-!["Microsoft Intune - Terms of use"](/assets/images/posts/Intune-Terms-Of-use/03.png)
+!["Microsoft Intune - Terms of use"](/assets/images/posts/Intune-Terms-Of-Use/03.png)
 
 And it's it. This is the first of post related to the Conditional Access.
