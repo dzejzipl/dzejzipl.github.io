@@ -13,3 +13,5 @@ example/_site
 Gemfile.lock
 node_modules
 npm-debug.log*
+settings.json
+.vscode/*
