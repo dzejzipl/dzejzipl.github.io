@@ -5,7 +5,7 @@ categories:
 tags:
     - Random
 ---
-![All blog posts about Microsoft in one place?](/assets/images/top_images/Microsoft365TOP.png)What if you could read all blog posts about Microsoft 365 technologies in one place?
+![All blog posts about Microsoft in one place?](/assets/images/top_images/Microsoft365TOP.png)What if you could read all blog posts about Microsoft technologies in one place?
 
 Hello everyone.
 
