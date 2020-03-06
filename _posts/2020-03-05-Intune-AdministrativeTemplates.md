@@ -45,4 +45,6 @@ Another thing which is enabled is: **Silently sign in users to the OneDrive sync
 
 As you can see, only for ODB we have 21 settings to customize. New settings are published every month so it's good to check if settings which we need are now available.
 
+When Administrative template will be created, you need to assign this template to group of users.
+
 So - now you can start customizing your Windows 10 on your organization!
