@@ -43,11 +43,11 @@ Po chwili powinien pojawić nam się ekran z informacją, że konfiguracja zako�
 
 !["[PL] Azure AD - Hybrid Join"](/assets/images/posts/AzureAD-Hybrid-Join/05.png)
 
-Wpierw musimy edytować politykę GPO, która będzie wdrożona na nasze komputery. Odpalamy GPO Editor, przechodzimy do: *Computer Configuration* > *Policies* > *Administrative Templates* > *Windows Components* > *Internet Explorer* > **Security Page** i włączamy opcję: *Site to Zone ASsigment List** oraz dodajemy dwie strony:
+Wpierw musimy edytować politykę GPO, która będzie wdrożona na nasze komputery. Odpalamy GPO Editor, przechodzimy do: *Computer Configuration* > *Policies* > *Administrative Templates* > *Windows Components* > *Internet Explorer* > *Security Page* > *Site to Zone Assigment List* oraz dodajemy dwie strony:
 
 * https://autologon.microsoftazuread-sso.com
 * https://device.login.microsoftonline.com
-* 
+  
 !["[PL] Azure AD - Hybrid Join"](/assets/images/posts/AzureAD-Hybrid-Join/06.png)
 
 Następnie przechodzimy katalog niżej, do **Intranet Zone** i włączamy opcję nazwaną ***Allow updates to status bar via script***
