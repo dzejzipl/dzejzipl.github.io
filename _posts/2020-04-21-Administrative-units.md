@@ -6,8 +6,7 @@ tags:
     - Azure AD
     - Administrative Units
 ---
-![Azure AD - Administrative Units](/assets/images/top_images/AzureADTOP.jpg)
-Couple words about a new feature on Azure AD - Administrative Units.
+![Azure AD - Administrative Units](/assets/images/top_images/AzureADTOP.jpg)Couple words about a new feature on Azure AD - Administrative Units.
 
 There is a new feature on Azure AD - **Administrative Units**. Imagine, that you have three offices. One main office and two branches. Your HelpDesk users have access to all of the users, but you don't want that HelpDesk from the first branch can reset passwords for users from the secondary Branch Office and vice versa.
 
