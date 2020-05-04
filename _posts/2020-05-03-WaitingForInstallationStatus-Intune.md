@@ -5,7 +5,6 @@ categories:
 tags:
     - applications
     - intune
-
 ---
 ![Intune: Waiting for install status](/assets/images/top_images/IntuneTOP.png)Couple words about Kiosk Profile and "Waiting for install status"
 
