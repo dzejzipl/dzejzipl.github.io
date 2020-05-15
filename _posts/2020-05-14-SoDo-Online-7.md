@@ -4,6 +4,10 @@ categories:
     - Public speaking
 tags:
     - Public speaking
+
+header-img: "assets/images/posts/SoDo-Online-7/MainSODO.jpg"
+subtitle:   "Another public speaking about Intune <3"
+
 ---
 ![Public speaking - SysOps/DevOps Online MeetUp #7](/assets/images/posts/SoDo-Online-7/MainSODO.jpg)Another public speaking about Intune <3
 
