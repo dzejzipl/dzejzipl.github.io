@@ -5,7 +5,7 @@ categories:
 tags:
     - PL Post
 ---
-![[PL] Spójrzmy wstecz i pomyślmy o przyszłości!](/assets/images/posts/spojrzmy-wstecz-i-pomyslmy-o-przyszlosci/top.png)Spójrzmy wstecz i pomyślmy o przyszłości!
+![[PL] Spójrzmy wstecz i pomyślmy o przyszłości!](/assets/images/posts/spojrzmy-wstecz-i-pomyslmy-o-przyszlosci/top.jpg)Spójrzmy wstecz i pomyślmy o przyszłości!
 
 <!-- wp:paragraph -->
 <p>Na koniec roku zawsze możemy spojrzeć wstecz, zobaczyć co zrobiliśmy źle, czego nie zrobiliśmy, co nam poszło lepiej, a co mogło pójść lepiej.</p>
