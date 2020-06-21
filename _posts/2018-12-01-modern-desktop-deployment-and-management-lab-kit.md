@@ -1,3 +1,4 @@
+---
 title: "[PL] Modern Desktop Deployment and Management Lab Kit"
 categories:
     - Intune
