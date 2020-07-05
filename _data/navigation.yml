@@ -13,3 +13,5 @@ main:
     url: /about/
   - title: "External Publications"
     url: /externalPublications/
+  - title: "Public speakings"
+    url: /public-speaking/
