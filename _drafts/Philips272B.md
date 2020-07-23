@@ -1,5 +1,5 @@
 ---
-title: "[PL] Recenzja monitora Philips 272B"
+title: "[PL] Recenzja monitora Philips 272B z złączem USB-C"
 categories:
     - Recenzje
 tags:
@@ -7,27 +7,27 @@ tags:
     - PL Post
 ---
 
-Jeden kabel, aby rządzić wszystkim...
+![[PL] Recenzja monitora Philips 272B z złączem USB-C](/assets/images/posts/Philips272B/top.jpg)A gdyby tak użyć monitora jako stacji dokującej?
 
-Dwa lata temu napisałem recenzję monitora Philips Brilliance 272B, którego recenzję możecie znaleźć pod [tym linkiem](https://piesik.me/2018/11/06/recenzja-monitora-philips-brilliance-272b-wqhd-do-biurowego-uzytku/).
+Dwa lata temu napisałem recenzję monitora Philips Brilliance 272B, którą możecie przeczytać [tutaj](https://piesik.me/2018/11/06/recenzja-monitora-philips-brilliance-272b-wqhd-do-biurowego-uzytku/).
 
-Opisywałem w niej sprzęt, który spędził sporo czasu u mnie w domu i został wykorzystany do codziennej pracy i podsumowując tamten czas mogę poowiedzieć, że był to dobrze spędzony czas.
+Opisywałem w niej sprzęt, który spędził u mnie w domu spędził sporo czasu i był używany do codziennej pracy. Podsumowując, nie narzekałem na działanie monitora, ba, mogę powiedzieć, że byłem z niego zadowolony, ale sklasyfikowałem to urządzenie jako biurowe.
 
-Po dwóch latach ponownie otrzymałem paczkę od firmy Philips, w której znajdowała się odświeżona wersja tego monitora - tym razem w wersji z **wbudowaną stacją dokującą**. Tak, dobrze czytacie. Monitor, który posiada wbudowaną stację dokującą, dzięki czemu do waszego laptopa idzie tylko kabel USB, natomiast cała reszta peryferiów jest bezpośrednio podłączona do monitora.
+Kilka dni temu, po prawie dwóch latach ponownie otrzymałem paczkę od firmy Philips, w której znajdowała się odświeżona wersja tego monitora - tym razem w wersji z **wbudowaną stacją dokującą**. Tak, dobrze czytacie, jest to urządzenie, które posiada wbudowaną stację dokującą, dzięki czemu do waszego laptopa idzie tylko kabel USB, natomiast cała reszta peryferiów jest bezpośrednio podłączona do monitora.
 
-Stacje dokujące nie są standardem w domach, częściej są używane w dużych firmach. Jednak patrząc na to, jaka to jest wygoda moglibyśmy przejść z nimi do porządku dziennego.
+![[PL] Recenzja monitora Philips 272B z złączem USB-C](/assets/images/posts/Philips272B/pic_01.jpg)
 
-### A jak jest u was w domu? Ile kabli musicie podłączyć do laptopa, aby rozpocząć pracę?
+Stacje dokujące nie są standardem w domach, częściej są używane w dużych firmach. Jednak patrząc na to, jaka to jest wygodne rozwiązanie moglibyśmy przejść z nimi do porządku dziennego podczas użytku domowego.
 
-Ja muszę podłączyć myszkę, czytnik smart card, odbiornik Bluetooth, HDMI, zasilanie.. I tyle. Albo w sumie tylko tyle, ponieważ jestem ograniczony ilością wolnych portów w moim obecnym laptopie.
+### A jak jest u was w domu? Ile urządzeń musicie podłączyć do laptopa, aby rozpocząć pracę?
 
-Trochę mało. Przyznam się szczerze, że ostatnio eksperymetuję z nagrywaniem filmików, więc przydało by się jeszcze podłączyć mikrofon. No i drugi monitor , aby mieć łącznie dwa zewnętrzne i trzeci laptopowy co by wygodniej pracować. 
+Ja muszę podłączyć myszkę, czytnik smart card, odbiornik Bluetooth, HDMI, zasilanie.. I tyle. Albo w sumie tylko tyle, ponieważ jestem ograniczony ilością dostępnych portów w moim obecnym laptopie.
 
-Równie dobrze mógłbym kupić komputer stacjonarny, aby mieć mnogość portów, które wymagam do codziennej pracy a nie tutaj narzekać na ichniejszy brak. Ale od czego są właśnie takie fajne urządzenia jak monitory z wbudowanymi stacjami dokującymi? 
+Trochę mało. Przyznam się szczerze, że ostatnio eksperymetuję z nagrywaniem filmików, więc przydało by się jeszcze podłączyć mikrofon oraz kamerę. No i kolejny monitor , aby mieć łącznie dwa zewnętrzne i trzeci laptopowy co by wygodniej pracować i mieć podgląd na obecne sprawy. 
 
-Na początek może słów kilka jakie złącza czekają na wykorzystanie:
+Na początek może słów kilka na to, co nas czeka jeżeli chodzi o dostępne złącza:
 
-* Zasilanie (wbudowany zasilacz w monitor)
+* Zasilanie (zasilacz jest wbudowany w monitor)
 * HDMI IN
 * Display Port In
 * USB-C (z adapterem do USB-A)
@@ -35,57 +35,72 @@ Na początek może słów kilka jakie złącza czekają na wykorzystanie:
 * 4xUSB (z czego jeden jest dodatkowo portem ładującym po wyłączeniu monitora)
 * Display Port Out
 * Audio Out
-* Port zasilający USB-C
 * DC Out
 
-Wasze oko powinno wykryć conajmniej dwie ciekawostki. Display Port Out oraz port zasilający USB-C. Już wam tłumaczę wszystko. 
+Wasze oko powinno wykryć conajmniej dwie ciekawostki. Display Port Out oraz port USB-C.
 
-Pierwszą ciekawostką jest obsługa USB-C. Mając odpowiedni laptop jesteśmy w stanie podłączyć się do monitora tylko jednym kablem - na tym samym kablu pójdzie audio / video / dane **oraz ładowaie** w przypadku podłączenia przez USB-C bez użycia przejściówki do USB 3.0 tak jak w moim przypadku. Powinniśmy pamiętać także, że maksymalne zasilanie, które puścimy na jednym kablu to 65w.
+Pierwszą ciekawostką jest port USB-C. Dzięki temu połączeniu jesteśmy w stanie połączyć naszego laptopa oraz monitor tylko jednym kablem, który będzie przesyłał zarówno dane oraz zasilanie. Brzmi magicznie, prawda? Jeżeli natomiast nie mamy dostępnego złącza USB typu C w naszym laptopie, możemy użyć dołączonej do kabla przejściówki, która będzie kończyła kabel USB 3.0, który jest w bardzo wielu laptopach. Niestety, wada jest taka, że tutaj nie otrzymamy zasilania.
 
-Druga ciekawostka to taka, że mając jedno złącze Display Port w komputerze jesteśmy w stanie podłączyć do złącza DP Out w Philipsie kolejny monitor po Display Port. Wygląda obiecująco, prawda? Tak, ale tylko w momencie jeżeli monitor mamy spięty za pomocą kabla DP. Jeżeli używamy tak jak ja - USB-C, funkcja ta nie zadziała.
+![[PL] Recenzja monitora Philips 272B z złączem USB-C](/assets/images/posts/Philips272B/pic_05.jpg)
 
-Kolejną ciekawostką jest złączę DC Out, które pozwoli zasilić inne urządzenie, tutaj także mamy ogranicznik do 65W.
+Drugą ciekawostką możemy nazwać dodanie portu Display Port, ale wyjściowego. Czyli podłączając się kablem DP możemy rozszerzyć nasz setup o kolejny monitor nie wykorzystując kolejnego złącza graficznego w naszym urządzeniu. Nie wiem jak wam, ale mi się to typowo korporacyjnie kojarzy ;)
 
-Muszę przyznać, że z tym monitorem można robić kombinacje alpejskie zależnie od tego, jakie wymagania mamy. 
+Minus tego rozwiązania? Nie działa z kablem HDMI lub z połączeniem przez USB-C. Musi zostać użyty DP. 
 
-Wracając do aspektów technicznych recenzji - mamy obecnie wirusa COVID, w związku z czym sporo fimr przeniosło pracę w 100% zdalnie do domów. Tak właśnie jest u mnie, w związku z czym muszę podzielić swój sprzęt pomiędzy pracę dla mojej firmy a pracę po za pracą. 
+![[PL] Recenzja monitora Philips 272B z złączem USB-C](/assets/images/posts/Philips272B/pic_07.jpg)
 
-Tutaj przychodzi nasz wybawca - 27 cali o rozdzielczości WQHD, czyli 2560x1440px. Idealnie. Muszę przyznać, że pracowałem już na monitorach o rozdzielczościach 4K i nigdy w 100% mnie to nie kręciło. Zawsze miałem ustawione skalowanie zależnie od potrzeb, czyli albo 125% albo 150%, gdzie mniej więcej dochodziliśmy do tej samej rozdzielczości, co mamy w tym monitorze domyślnie. 
+Jak widzimy, szeroki dobór złącz powinien zadowolić każdego. Ok, może brakować złącza VGA, ale kto jeszcze w obecnych czasach używa VGA?
 
-Tak sobie myślę, że smutno mi będzie wrócić do FHD po odesłaniu tego monitora. 
+Obecnie szalejący wirus pokazał nam, że codzienną pracę można wykonywać nie tylko z biura, ale również z domu. Tak samo jest u mnie i w biurze nie byłem już kilka miesięcy. W związku z tym dzielę swój sprzęt pomiędzy pracę zarobkową a pracę poza pracą. 
 
-Cały panel jest oparty na technologii IPS więc jak mówi stare przysłowie - *lepszy IPS niż TN a tymbardziej VA*. Co to znaczy dla typowego pana Kowalskiego, który kupuje monitor pod domowe zastosowaia? Znaczy to to, że będzie miał żywsze kolory oraz wysoką jakość obrazu, ale niestety - czerń nie będzie aż taką czernią jaką sobie możemy wyobrażać. A czy typowy Pan Kowalski to zauważy? No praktycznie nigdy, ponieważ większość rzeczy, które robimy przy komputerach są wykonywane na jasnych "powierzchniach".
+Tutaj na pomoc przychodzi bohater dzisiejszej recenzji, czyli **Philips Brilliance 272B**. Monitor o przekątnej 27 cali oferujący rozdzielczości WQHD, czyli 2560x1440px. Idealnie. Muszę przyznać, że pracowałem już na wyświetlaczach z rozdzielczością 4K i przeszkadzało mi to, że aby rozpocząć pracę musiałem ustawiać skalowanie na 125% albo nawet 150%. A tutaj? Żadnego skalowania, ustawienia domyślne są dla mnie wystarczające. Po czasie spędzonym z tym monitorem ciężko mi będzie wrócić do pełnego Full HD.
+
+Panel wyświetlacza jest oparty na technologii IPS, który gwarantuje nam żywsze kolory oraz wyższą jakość obrazu niżeli byśmy otrzymali ekran w technologii TN lub VA. Co prawda - czerń nie będzie aż taką czernią, ale typowy użytkownik tego urządzenia nie zobaczy różnicy.
 
 Z innych technnicznych spraw, które mogą was zainteresować to kąty widzenia - tutaj mamy do dyspozycji 178 stopni w pionie jak i poziomie. A cóż to znaczy? To, że w momencie postawienia obok siebie trzech takich monitorów obraz będzie tak samo dobrze widoczny jak na tym przed nami.
 
-Mamy również pokrycie barw sRGB na 132% - rzecz, która zainteresuje osoby pracujące z grafiką. Cóż, moje zainteresowanie z grafiką kończy się na tym jak obrabiam obrazki pod bloga. Ale to co widzę w zupełności mi wystarcza. 
+![[PL] Recenzja monitora Philips 272B z złączem USB-C](/assets/images/posts/Philips272B/pic_08.jpg)
 
-Gdybyście byli osobami, które grają w gry to na pewno by was zainteresował czas reakcji - tutaj jest to 5ms. Dużo? Mało? 5 milisekund? Cóż, według profesjonalnych graczy jest to sporo. Dla nich najlepsze są czasy reakcji na poziomie 1ms w matrycach typu TN, które są dla nich lepsze. Moje oko przy wykorzystaniu typowo pracowym nie zauważyło żadnego smużenia.
+Mamy również pokrycie barw sRGB na 132% - rzecz, która zainteresuje osoby pracujące z grafiką. Cóż, moje zainteresowanie z grafiką kończy się na tym jak obrabiam obrazki pod bloga, dlatego też nie będę się próbował specjalistycznie wypowiedzieć na ten temat. Wychodzę z założenia, *że się nie znam, to się nie wypowiadam*. 
 
-No dobra, ale czas w końcu przejść do właściwej recenzji, czyli jak się używało tego monitora podczas codziennej pracy?
+Jeżeli jesteście osobami, które grają w gry to na pewno zainteresuje was czas reakcji, który wynosi 5ms. Dużo? Mało? 5 milisekund? Cóż, według profesjonalnych graczy jest to sporo. Dla nich najlepsze są czasy reakcji na poziomie 1ms w matrycach typu TN, które są przeznaczone do gier. Moje oko przy wykorzystaniu typowo pracowym nie zauważyło żadnego smużenia.
 
-Tak jak napisałem wcześniej, obecna sytuacja na świecie wymusiła na mnie, abym jeszcze więcej czasu spędzał pracując w domu, dlatego też dobrze się stało, że mogłem zmienić monitor na taki, który ma większą rozdzielczość. Więcej okienek = większa możliwość organizacji pracy, co w skrócie oznaczało o u mnie cztery okienka obok siebie, dla przykładu Teams / Outlook / Spotify / Przeglądarka, natomiast na dolnym ekranie miałem już tylko sam edytor kodu. 
+Jednak czas w końcu przejsć do opisu właściwego, czyli jak się na nim pracuje?
 
-Pierwsze co zrobiłem po otrzymaniu monitora to zapoznałem się z funkcją nazwaną **Smart Image**, która pozwala nam na szybkie (ponieważ uruchamiane za pomocą przycisków na monitororze) wybranie trybu naszej pracy, dla przykładu *office*, *movie*, *economy* lub też *low blue*, które okazało się najbardziej zbawienne dla moich oczu. Co ten tryb daje? W skrócie można napisać, że redukuje niebieskie światło, które powoduje, że nasz wzrok aż tak bardzo mocno się nie męczy. Idealne rozwiązanie do pracy w nocy. 
+Tak jak napisałem wcześniej, obecna sytuacja na świecie wymusiła na mnie, abym jeszcze więcej czasu spędzał pracując w domu, dlatego też dobrze się stało, że mogłem zmienić monitor na taki, który ma większą rozdzielczość. Więcej okienek = większa możliwość organizacji pracy, co w skrócie oznaczało o u mnie cztery okienka obok siebie, dla przykładu Teams / Outlook / Spotify / Przeglądarka, natomiast na dolnym ekranie (laptopowym) miałem już tylko sam edytor kodu. 
 
-Dla osób, które nie mają takiej funkcji w swoich monitorach polecam użyć albo wbudowanej opcji w Windows 10 - **night light**, albo dodatkowego programu. Kiedyś się używało do tego np. Fluxa.
+Pierwsze co zrobiłem po otrzymaniu monitora to zapoznałem się z funkcją nazwaną **Smart Image**, która pozwala nam na szybkie (ponieważ uruchamiane za pomocą przycisków na monitorze) wybranie trybu naszej pracy, dla przykładu *office*, *movie*, *economy* lub też *low blue*, które okazało się najbardziej zbawienne dla moich oczu. Co ten ostatni tryb daje? W skrócie można napisać, że redukuje niebieskie światło, które powoduje, że nasz wzrok aż tak bardzo mocno się nie męczy. Idealne rozwiązanie do pracy w nocy. Każdy tryb powodował zmianę kolorów / ustawień monitora.
 
-Mamy również dostępną technologię **Power Sensor**, która redukuje jasność w momencie odejścia przez nas z od komputera. To się bardzo dobrze przyda w miejscach, gdzie komputery chodzą cały czas z włączonym wygaszaczem ekranu.
+![[PL] Recenzja monitora Philips 272B z złączem USB-C](/assets/images/posts/Philips272B/pic_03.jpg)
 
-Idziemy dalej - dzięki stacji dokującej mamy możliwość sporą wygodę, u mnie obecnie podłączenie laptopa to zasilanie oraz kabel USB-C z przejściówką do USB 3.0. Jest to rozwiązanie idealne dla osób, które noszą z sobą laptopa w różne miejsca. Nie musisz już pamiętać o podłączeniu dodatkowych peryferiów.
+Dla osób, które nie mają funkcji *Low Blue* w swoich monitorach, polecam użyć albo wbudowanej opcji w Windows 10 - **night light**, albo dodatkowego programu. Kiedyś się używało do tego np. Fluxa.
+
+![[PL] Recenzja monitora Philips 272B z złączem USB-C](/assets/images/posts/Philips272B/lowblue.png)
+
+Mamy również dostępną technologię **Power Sensor**, która redukuje jasność w momencie odejścia przez nas z od komputera. To się bardzo dobrze przyda w miejscach, gdzie komputery chodzą cały czas z włączonym wygaszaczem ekranu, dzięki temu możemy oszczędzić pieniądze poprzez mniejszy pobór energii przez monitor.
+
+![[PL] Recenzja monitora Philips 272B z złączem USB-C](/assets/images/posts/Philips272B/pic_04.jpg)
+
+Idźmy dalej. Wbudowana stacja dokująca daje nam sporą możliwość rozbudowy naszego laptopa o dodatkowe peryferia. Cztery porty USB oraz port LAN pozwalają nam na pozbycie się tych kabli od laptopa, dzięki czemu użyjemy tylko jeden kabel, aby uzyskać pełną zdolność do pracy. Zależnie od tego, jakiego laptopa posiadamy albo używamy USB-C, albo dołączonej przejściówki do USB 3.0
+
+Czy wspomniałem o tym, że urządzenie posiada tryb pracy DP-Alternative Mode? Właśnie to pozwala nam na pracę po złączu USB jako dodatkowego urządzenia wyświetlającego obraz.
 
 Regulowana wysokość pozwala na podniesienie monitora aż o 18 cm, mamy możliwość pracy w pivocie, czyli obrócenia o 90 stopni. Pochylenie urządzenia do przodu? Do tyłu? Nie ma problemu, ustawimy go na tyle, aby wygodnie nam się pracowało. Dla osób, które używają uchwytów na monitor z tyłu czeka standard VESA 100x100.
 
-Jest także coś dla totalnych geeków, czyli obsługa **Windows Hello**, która polega na niczym innym niż logowanie swoją twarzą. W skrócie wygląda to tak, że siadasz do biurka, otwierasz klapę laptopa, patrzysz się na monitor... I komputer odblokowany. Jakość wykonania tego czujnika mnie zaskoczyła, nigdy nie czekam dłużej niż dwie sekundy na odblokowanie urządzenia. Żadnych pinów podczas logowania. Miłość mocno.
+![[PL] Recenzja monitora Philips 272B z złączem USB-C](/assets/images/posts/Philips272B/pic_06.jpg)
 
-Tak jak napisałem w mojej poprzedniej recenzji, mamy dostępną również kamerę Full HD, której obraz niestety nie rozpieszcza. Do połączeń konferencyjnych wystarczy, jednak do czegoś poważniejszego - np. nagrania filmów bym się powstrzymał. Tak samo jak i wbudowane głośniki. W zupełności wystarczą do poprowadzenia rozmowy na Skype / Teams, ale... Nie wymagajmy od nich zbyt wiele.
+Jest także coś dla totalnych geeków, czyli obsługa **Windows Hello**, która polega na niczym innym niż logowania do systemu swoją twarzą. W skrócie wygląda to tak, że siadasz do biurka, otwierasz klapę laptopa, patrzysz się na monitor... I komputer odblokowany. Jakość wykonania tego czujnika mnie zaskoczyła, nigdy nie czekałem dłużej niż dwie sekundy na odblokowanie urządzenia. Żadnych pinów podczas logowania. Miłość mocno.
+
+![[PL] Recenzja monitora Philips 272B z złączem USB-C](/assets/images/posts/Philips272B/pic_02.jpg)
+
+W nawiązaniu do poprzedniego tekstu, mamy dostępną również kamerę Full HD, której obraz niestety nie rozpieszcza. Do połączeń konferencyjnych wystarczy, jednak do użycia w celach trochę poważniejszych np. nagrania filmów bym już jej nie użył Tak samo jak i wbudowane głośniki. W zupełności wystarczą do poprowadzenia rozmowy na Skype / Teams, ale... Nie wymagajmy od nich zbyt wiele.
 
 W końcu po to mamy dostępne złącze Audio Out, aby podłaczyć do niego zewnętrzne głosniki, prawda?
 
 Jest dostępne także oprogramowanie - *SmartControl*, które pozwala nam na sterowanie OSD monitora z poziomu naszego komputera. Nie wnikałem za dużo dlaczego, ale.. Nie działo poprawnie. Ustawienie trybu "low blue" nie równało się temu co byśmu uzyskali z fizycznego menu pod monitorem. 
 
-Czy jestem zadowolony z używania z tego monitora? Jak najbardziej. Stacja dokująca ułatwia życie. Wielkość zastosowaniem matrycy, czyli 27' w połączeniu z rozdzielczością powodują, że człowiek nie chce wracać do "marnych" 24'.  Trochę brak drugiego złącza HDMI jak i funkcji PiP, czyli Picture in Picture, który pozwoliłby na podgląd tego co się dzieje na drugim podłączonym złączu. 
+Czy jestem zadowolony z używania z tego monitora? Jak najbardziej. Stacja dokująca ułatwia życie. Wielkość zastosowaniem matrycy, czyli 27' w połączeniu z rozdzielczością powodują, że człowiek nie chce wracać do "marnych" 24'. Trochę brak drugiego złącza HDMI jak i funkcji PiP, czyli Picture in Picture, który pozwoliłby na podgląd tego co się dzieje na drugim podłączonym złączu. 
 
 Cena? Około 1600 zł, więc.. Za te możliwości? Wydaje mi się bardzo przystępna. Matowa matryca z jak już wspomniałem z dobrą rozdzielczością o dobrych kątach widzenia. Dodatkowo wbudowana stacja dokująca, która pozwala nam na szybkie rozpoczęcie pracy, obsługa Windows Hello oraz mnogość wyboru sposobu łączenia komputera z wyświetlaczem powodują, że jest to dobry kandydat do zakupu.
 
-W skrócie - kupowałbym
+W skrócie - kupowałbym.
