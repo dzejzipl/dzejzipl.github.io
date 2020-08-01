@@ -5,7 +5,7 @@ categories:
 tags:
     - PL Post
 ---
-![[PL] Transcend StoreJet 25MC](/assets/images/posts/transcend-storejet-25mc/top.png)Recenzja Transcend StoreJet 25MC
+![[PL] Transcend StoreJet 25MC](/assets/images/posts/transcend-storejet-25mc/top.jpg)Recenzja Transcend StoreJet 25MC
 
 Ostatnio dosyć często gram na mojej konsoli i dostrzegam bardzo dużą wadę – im nowszy tytuł tym coraz więcej waży. Kiedyś się martwiłem o to, że muszę ściągnąć 700MB, później 4,3GB a teraz patrzę jak pasek postępu wskazuje do ściągnięcia ponad 70GB.  Mój XBOX posiada zamontowany dysk twardy o pojemności 1TB, co nie pozwala na ściągnięcie wielu cyfrówek. Lubię mieć zapas gier, które mogę odpalić, dlatego też bardzo szybko gigabajty odchodzą w zapomnienie…
 
