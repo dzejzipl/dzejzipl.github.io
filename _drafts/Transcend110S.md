@@ -42,3 +42,6 @@ Cena, którą musimy zapłacić za ten dysk to 170 zł, co jest relatywnie nisk�
 
 Tak jak jeden z poprzednich dysków brałem typowo pod swojego domowego laba, tak ten tutaj testowałem na swoim laptopie do codziennej pracy - Huawei Matebook D, którego recenzje możecie przeczytać [tutaj](https://www.piesik.me/2018/09/26/recenzja-laptopa-huawei-matebook-d/)
 
+Słowo przykre na początek - praktycznie żaden z producentów nie dodaje śrubek do swoich dysków. Dlaczego? Czym mam przykręcić te dyski nie posiadając śrubek w laptopie? To już kolejny kupiony przeze mnie dysk, który nie posiada tak bardzo istotnego dodatku potrzebnego do montażu urządzenia. Co prawda - w swoim laptopie takową śrubkę posiadam, ponieważ jest tam fabrycznie zamontowany inny dysk M.2, ale moje komputery, które używam do labów takich śrubek już nie posiadają. No troszkę słabo, przydało by się je jednak dodawać. 
+
+Zastosowana technologia w tym dysku powoduje, że on zwalani
