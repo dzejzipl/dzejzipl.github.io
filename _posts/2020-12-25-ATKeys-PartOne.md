@@ -10,7 +10,7 @@ tags:
 header-img: "/assets/images/top_images/ATKeyTOP.jpg"
 subtitle:   "Improve security for your private accounts or on your company with ATKey!"
 ---
-![Improve security for your private accounts or on your company with ATKey!](/assets/images/top_images/ATKeyTOP.jpg) Be more secure with ATKey secure keys!
+![Improve security for your private accounts or on your company with ATKey!](/assets/images/top_images/ATKeyTOP.jpg)Be more secure with ATKey secure keys!
 
 A couple of weeks ago I received a package from AuthenTrend company with security keys. I decided to show you, how I will use the content of this package, also... How to improve some security for your private accounts, like Outlook, Google, Facebook accounts. I don't want to write only about Azure AD, but that will be of course described too.
 
