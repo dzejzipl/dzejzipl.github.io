@@ -1,5 +1,5 @@
 ---
-title: "Improve security for your private accounts or on your company with ATKey! (Part one!)"
+title: "Improve security for your private accounts or on your company with ATKey! (First part)"
 categories:
     - ATKey
 tags:

@@ -7,6 +7,7 @@
     "markdownlint.config": {
         "default": true,
         "no-trailing-punctuation" : false,
-        "no-hard-tabs": false
+        "no-hard-tabs": false,
+        "no-inline-html": false
     }
 }
