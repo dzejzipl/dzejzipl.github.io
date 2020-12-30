@@ -53,7 +53,9 @@ Like earlier, I prepared a short movie about that:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yc1sjZ8soxE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Let's move to the next step - use key as logon methon, instead of password.
+Let's move to the next step - use key as logon methon (Windows Hello via CDF), instead of password.
+
+This method is similar to those which we do last time
 
 ## Use a key as logon method
 
@@ -63,8 +65,11 @@ If you have issues, let's watch below movie which I prepared for you:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1UOvhq0imuw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-After the reboot, you need to touch key to login. Nothing more.
+After the reboot, you need to touch key to login to the workstation. Nothing more.
 
 ### No passwords.
 
-So, we have a
+So, we have configured and up-to-date our security key, we can logon to our workstation using those key, but what next? How to use that key with our browser?
+
+
+
