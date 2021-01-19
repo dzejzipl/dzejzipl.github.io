@@ -5,6 +5,7 @@ categories:
 tags:
     - Alexa
     - TP-Link KASA
+    - PL Post
 
 header-img: "/assets/images/posts/2018/amazon-echo-dot-tp-link-kasa/top.jpg"
 subtitle:   "[PL] Amazon Echo Dot – TP-Link KASA"

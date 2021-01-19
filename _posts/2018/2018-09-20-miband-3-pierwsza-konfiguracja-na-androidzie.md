@@ -5,6 +5,7 @@ categories:
 tags:
     - MiBand
     - Android
+    - PL Post
 
 header-img: "/assets/images/posts/2018/miband-3-pierwsza-konfiguracja-na-androidzie/top.jpg"
 subtitle:   "[PL] MiBand 3 – pierwsza konfiguracja na Androidzie"
