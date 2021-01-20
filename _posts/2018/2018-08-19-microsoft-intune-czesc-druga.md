@@ -7,8 +7,7 @@ tags:
     - PL Post
 
 header-img: "/assets/images/posts/2018/microsoft-intune-czesc-trzecia-dodajemy-urzadzenie-do-intune/top.jpg"
-subtitle:   "[PL] Microsoft Intune – część druga
-"
+subtitle:   "[PL] Microsoft Intune – część druga"
 ---
 ![[PL] Microsoft Intune – część druga](/assets/images/posts/2018/microsoft-intune-czesc-trzecia-dodajemy-urzadzenie-do-intune/top.png)Microsoft Intune – część druga
 
@@ -99,7 +98,7 @@ Jeżeli już wiemy w jaki sposób to wszystko wykonać z poziomu CLI oraz PowerS
 1) Logujemy się do portalu, przechodzimy do sekcji Azure Active Directory
 2) Z lewej strony wybieramy Users > New User
 3) Wypełniamy niezbędne pola
-4_ Klikamy Create
+4) Klikamy Create
 
 Tworzenie grupy za pomocą portalu Azure
 
@@ -108,8 +107,8 @@ Tworzenie grupy za pomocą portalu Azure
 3) Nazwa jak i opis jest do wymyślenia przez was
 4) Membership type: Assigned. Później stworzymy grupę urządzeń z Androidem poniżej jakiejś wersji.
 5) Od razu za jednym razem możemy dodać odpowiednich użytkowników do grupy klikając na pole Members
-J
-eżeli chcecie poczytać trochę o dynamicznych grupach użytkowników to zapraszam was do artykułu, który niedawno popełniłem czyli: [Dynamiczne grupy użytkowników w AAD](https://www.piesik.me/2018/03/10/dynamiczne-grupy-uzytkownikow-w-aad/)
+
+Jeżeli chcecie poczytać trochę o dynamicznych grupach użytkowników to zapraszam was do artykułu, który niedawno popełniłem czyli: [Dynamiczne grupy użytkowników w AAD](https://www.piesik.me/2018/03/10/dynamiczne-grupy-uzytkownikow-w-aad/)
 
 Z podstaw tworzenia grup i użytkowników to na tyle.
 
