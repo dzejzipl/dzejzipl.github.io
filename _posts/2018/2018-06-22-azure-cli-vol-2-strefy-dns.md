@@ -1,5 +1,5 @@
 ---
-title: "[PL] Azure CLI vol 2 | Strefy DNS"
+title: "[PL] Azure CLI vol 2 Strefy DNS"
 categories:
     - Azure
 tags:
@@ -7,9 +7,9 @@ tags:
     - PL Post
 
 header-img: "/assets/images/posts/2018/azure-cli-vol-2-strefy-dns/top.jpg"
-subtitle:   "[PL] Azure CLI vol 2 | Strefy DNS"
+subtitle:   "[PL] Azure CLI vol 2 Strefy DNS"
 ---
-![[PL] Azure CLI vol 2 | Strefy DNS](/assets/images/posts/2018/azure-cli-vol-2-strefy-dns/top.jpg)Azure CLI vol 2 - Strefy DNS
+![[PL] Azure CLI vol 2 Strefy DNS](/assets/images/posts/2018/azure-cli-vol-2-strefy-dns/top.jpg)Azure CLI vol 2 - Strefy DNS
 
 Stało się.
 
@@ -31,7 +31,7 @@ Jak juz wam się zainstaluje, odpalcie wasz ulubiony terminal. Ja do tego używa
 
 Wpiszcie **az login** i wejdźcie na podaną stronę, podajcie kod, kliknijcie log in… I w ten sposób otrzymaliście dostęp do waszej subskrypcji Azure.
 
-![[PL] Azure CLI vol 2 | Strefy DNS](/assets/images/posts/2018/azure-cli-vol-2-strefy-dns/01.png)
+![[PL] Azure CLI vol 2 Strefy DNS](/assets/images/posts/2018/azure-cli-vol-2-strefy-dns/01.png)
 
 Bajka, prawda?
 
@@ -67,7 +67,7 @@ az network dns zone import -g nazwaGrupyZasobow  -n nazwaDomeny  -f nazwaPliku
 
 Enter i… Voila! Waszastrefa jest importowana. Tak to wygląda:
 
-![[PL] Azure CLI vol 2 | Strefy DNS](/assets/images/posts/2018/azure-cli-vol-2-strefy-dns/02.png)
+![[PL] Azure CLI vol 2 Strefy DNS](/assets/images/posts/2018/azure-cli-vol-2-strefy-dns/02.png)
 
 Nie pozostało wam teraz nic innego jak już zmienić adresy serwerów DNS u waszego hostingodawcy.
 
