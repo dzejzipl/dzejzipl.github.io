@@ -9,7 +9,7 @@ tags:
 header-img: "/assets/images/posts/2018/azure-cli-vol-2-strefy-dns/top.jpg"
 subtitle:   "[PL] Azure CLI vol 2 | Strefy DNS"
 ---
-![[PL] Azure CLI vol 2 | Strefy DNS](/assets/images/posts/2018/azure-cli-vol-2-strefy-dns/top.jpg)Azure CLI vol 2 | Strefy DNS
+![[PL] Azure CLI vol 2 | Strefy DNS](/assets/images/posts/2018/azure-cli-vol-2-strefy-dns/top.jpg)Azure CLI vol 2 - Strefy DNS
 
 Stało się.
 

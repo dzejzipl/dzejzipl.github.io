@@ -1,11 +1,11 @@
 ---
-title: "[PL] Azure Nano Server | Enter-PSSession – Cannot connect"
+title: "[PL] Azure Nano Server - Enter-PSSession – Cannot connect"
 categories:
     - Azure
 tags:
     - PL Post
 ---
-![[PL] Azure Nano Server | Enter-PSSession – Cannot connect](/assets/images/posts/azure-nano-server-enter-pssession-cannot-connect/top.png)Azure Nano Server | Enter-PSSession – Cannot connect
+![[PL] Azure Nano Server Enter-PSSession – Cannot connect](/assets/images/posts/azure-nano-server-enter-pssession-cannot-connect/top.png)Azure Nano Server Enter-PSSession – Cannot connect
 
 Cześć.
 
@@ -34,7 +34,7 @@ Szybkie sprawdzenie i reguły przychodzące są puste. Może dlatego połączeni
 
 Dodałem te porty jako dozwolone co widać na screenie:
 
-![[PL] Azure Nano Server | Enter-PSSession – Cannot connect](/assets/images/posts/azure-nano-server-enter-pssession-cannot-connect/01.png)
+![[PL] Azure Nano Server Enter-PSSession – Cannot connect](/assets/images/posts/azure-nano-server-enter-pssession-cannot-connect/01.png)
 
 No i spróbowałem się podłączyć.
 
@@ -47,6 +47,7 @@ Robimy to następującą komendą (uruchomienie tej komendy nadpisze zaufane hos
 ```powershell
 Set-Item wsman:localhost\Client\TrustedHosts ‚adresIPmaszyny’
 ```
+
  w konsoli PowerShell
 
 Po tym zabiegu wykonujemy komendę:
@@ -54,6 +55,7 @@ Po tym zabiegu wykonujemy komendę:
 ```powershell
 Enter-PSSession adresIPmaszyny -Credential nazwauzytkownika
 ```
+
 i powinno już wszystko działać…
 
 W razie pytań – standardowo zapraszam.
