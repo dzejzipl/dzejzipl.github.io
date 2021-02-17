@@ -28,9 +28,9 @@ I will create a three users:
 
 ![Synology DS620Slim - Part two](/assets/images/posts/Synology-Part2/01.png)
 
-On the next screen, you can directly add those users to the group, but for now, I will skip this step. 
+On the next screen, you can directly add those users to the group, but for now, I will skip this step.
 
-The third step is the step when you can assign permissions to folders. As we don't have created shared folders yet, this list will be empty. 
+The third step is the step when you can assign permissions to folders. As we don't have created shared folders yet, this list will be empty.
 
 The fourth step is assigning quota, the next step is about permissions for the applications. If you don't want that user can use FTP - just block it. And if you block access to **DSM** - this user will be not able to login to the Synology portal. When you configure it, you can go to the next step - speed limits for our applications.
 
@@ -60,11 +60,12 @@ If those groups are created, we can start by creating three folders:
 * For IT
 * For Management
 
-And assign permissions. Logically, HR will have access only to HR, IT to IT, but Management will have access to each folder. 
+And assign permissions. Logically, HR will have access only to HR, IT to IT, but Management will have access to each folder.
 
-To create a Shared folder we to open *Control Panel* > *Shared Folder* and click to **Create** to run the wizard where you can create a new shared folder. 
+To create a Shared folder we to open *Control Panel* > *Shared Folder* and click to **Create** to run the wizard where you can create a new shared folder.
 
-In the first step, we need to provide a name, optionally description. You don't need to enable Recycle Bin, but trust me - that is a better way to enable it only for administrators instead of hearing voices from people: *I MOVED MY FILES TO TRASH AND NOW IT IS GONE :(. * You can also encrypt this folder to have better security for your data, but it is optional. On the third step, you can enable data checksum for data integrity or enable folder quota. 
+In the first step, we need to provide a name, optionally description. You don't need to enable Recycle Bin, but trust me - that is a better way to enable it only for administrators instead of hearing voices from people: *I MOVED MY FILES TO TRASH AND NOW IT IS GONE :(.* You can also encrypt this folder to have better security for your data, but it is optional. On the third step, you can enable data checksum for data integrity or enable folder quota.
+
 The Last step will be assigning permissions to this folder:
 
 ![Synology DS620Slim - Part two](/assets/images/posts/Synology-Part2/04.png)
@@ -77,11 +78,11 @@ So, if you create any additional shared folder and user you can start using your
 
 Let's go to the last part of this post: **Installing packages**
 
-If you want to install any of package, you need to open **Package Center**, find package what you want to install and tap the Install button. But on the Beta version, you need to click *Join Beta*. We will install **Download Station** first. 
+If you want to install any of package, you need to open **Package Center**, find package what you want to install and tap the Install button. But on the Beta version, you need to click *Join Beta*. We will install **Download Station** first.
 
 ![Synology DS620Slim - Part two](/assets/images/posts/Synology-Part2/05.png)
 
-For this software, I will create an additional shared folder named Downloads and assign for my users Read / Write permissions. 
+For this software, I will create an additional shared folder named Downloads and assign for my users Read / Write permissions.
 
 When the package will be installed, run it from the menu and select a destination folder where downloaded data will be stored.
 
