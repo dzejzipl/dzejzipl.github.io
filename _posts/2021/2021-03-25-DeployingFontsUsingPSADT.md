@@ -26,13 +26,13 @@ So what I have done?
 3) I copied necessary fonts to *SupportFiles* folder
 4) Next thing, was removing the default installation prompt because in this case, I don't need it.
 
-   ```powershell
-   Show-InstallationWelcome -CloseApps 'iexplore' -AllowDefer -DeferTimes 3 -CheckDiskSpace -PersistPrompt
-   ```
+```powershell
+Show-InstallationWelcome -CloseApps 'iexplore' -AllowDefer -DeferTimes 3 -CheckDiskSpace -PersistPrompt
+```
 
-5) Now we need to install fonts, I will show you which code I created for that purpose:
+1) Now we need to install fonts, I will show you which code I created for that purpose:
 
-    ```powershell
+```powershell
         $fonts = Get-ChildItem -Path $dirSupportFiles
         foreach ($font in $fonts) {
             Copy-File -Path "$dirSupportFiles\$($font.name)" -Destination "$envWindir\Fonts\$($font.name)"
@@ -45,10 +45,11 @@ So what I have done?
 
             Set-RegistryKey -Key 'HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Fonts' -Name "$($font.baseName) $($fontType)" -Value $font.name -Type String
         }
-    ```
+```
 
-    Code is very simple - get all fonts from the SupportFiles folder, copy them to the Fonts folder and register it in the registry
-6) From PSADT it's is everything. We don't need to do anything else.
+Code is very simple - get all fonts from the SupportFiles folder, copy them to the Fonts folder and register it in the registry
+
+1) From PSADT it's is everything. We don't need to do anything else.
 
 ## Microsoft Win32 Content Prep Tool
 
