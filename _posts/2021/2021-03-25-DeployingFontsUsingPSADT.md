@@ -21,16 +21,16 @@ So what I have done?
 
 ## PSADT part
 
-1) I downloaded a package from a GitHub page, copy files from the "Toolkit" folder to my work folder.
-2) In the Deploy-application.ps1 file I changed information in the *VARIABLE DECLARATION* section to information about my package.
-3) I copied necessary fonts to *SupportFiles* folder
-4) Next thing, was removing the default installation prompt because in this case, I don't need it.
+* I downloaded a package from a GitHub page, copy files from the "Toolkit" folder to my work folder.
+* In the Deploy-application.ps1 file I changed information in the *VARIABLE DECLARATION* section to information about my package.
+* I copied necessary fonts to *SupportFiles* folder
+* Next thing, was removing the default installation prompt because in this case, I don't need it.
 
 ```powershell
 Show-InstallationWelcome -CloseApps 'iexplore' -AllowDefer -DeferTimes 3 -CheckDiskSpace -PersistPrompt
 ```
 
-1) Now we need to install fonts, I will show you which code I created for that purpose:
+* Now we need to install fonts, I will show you which code I created for that purpose:
 
 ```powershell
         $fonts = Get-ChildItem -Path $dirSupportFiles
@@ -49,7 +49,7 @@ Show-InstallationWelcome -CloseApps 'iexplore' -AllowDefer -DeferTimes 3 -CheckD
 
 Code is very simple - get all fonts from the SupportFiles folder, copy them to the Fonts folder and register it in the registry
 
-1) From PSADT it's is everything. We don't need to do anything else.
+* From PSADT it's is everything. We don't need to do anything else.
 
 ## Microsoft Win32 Content Prep Tool
 
@@ -57,12 +57,12 @@ Code is very simple - get all fonts from the SupportFiles folder, copy them to t
 
 ## MEM part
 
-1) You need to login into the MEM portal and add a new Win32 application. Select created earlier package and provide the necessary information.
-2) For Installation command use: **%windir%\sysnative\windowspowershell\v1.0\powershell.exe -ExecutionPolicy Bypass -file "Deploy-Application.ps1"**
-3) For uninstallation command you can use: **%windir%\sysnative\windowspowershell\v1.0\powershell.exe -ExecutionPolicy Bypass -file "Deploy-Application.ps1 -DeploymentType Uninstall"** but in my script there is no uinstallation commands.
-4) Because I'm installing it for everyone in the company, I selected System as Install behavior.
-5) As detection rule I provided to check if a file with the font exists in the C:\Windows\Fonts folder.
-6) In the end, I assigned **as required** for all devices.
+* You need to login into the MEM portal and add a new Win32 application. Select created earlier package and provide the necessary information.
+* For Installation command use: **%windir%\sysnative\windowspowershell\v1.0\powershell.exe -ExecutionPolicy Bypass -file "Deploy-Application.ps1"**
+* For uninstallation command you can use: **%windir%\sysnative\windowspowershell\v1.0\powershell.exe -ExecutionPolicy Bypass -file "Deploy-Application.ps1 -DeploymentType Uninstall"** but in my script there is no uinstallation commands.
+* Because I'm installing it for everyone in the company, I selected System as Install behavior.
+* As detection rule I provided to check if a file with the font exists in the C:\Windows\Fonts folder.
+* In the end, I assigned **as required** for all devices.
 
 How it is finally look in Installation Status?
 
