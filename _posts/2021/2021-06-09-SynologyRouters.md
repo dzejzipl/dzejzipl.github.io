@@ -8,10 +8,10 @@ tags:
     - MR2200ac
     - VPN
 
-header-img: "/assets/images/posts/2021/PolyStudioX30/top.jpg"
+header-img: "/assets/images/posts/2021/SynologyRouter/top.jpg"
 subtitle:   "Synology Router RT2600ac and MR2200ac on my home lab!"
 ---
-![Synology Router RT2600ac and MR2200ac on my home lab!](/assets/images/posts/2021/PolyStudioX30/top.jpg)Another kind of type of devices on my home lab... This time - Synology network devices.
+![Synology Router RT2600ac and MR2200ac on my home lab!](/assets/images/posts/2021/SynologyRouter/top.jpg)Another kind of type of devices on my home lab... This time - Synology network devices.
 
 As you can know, one of the primary devices in my home lab is a NAS device. I'm using DS620Slim with 6 of 2,5' HDD disks. It's almost 1,7TB of space to use and it is enough for me. I'm in love with this system, which they created to manage the whole NAS device. It is very simple, clear, and useful. I know where I should click to manage specific options.
 
