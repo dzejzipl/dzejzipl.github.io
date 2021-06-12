@@ -9,7 +9,7 @@ tags:
 header-img: "/assets/images/posts/2021/TeamsLobby/top.jpg"
 subtitle:   "Configure Lobby Meeting options in Microsoft Teams"
 ---
-![Configure Lobby Meeting options in Microsoft Teams](/assets/images/posts/2021/TeamsLobby/top.jpg)
+![Configure Lobby Meeting options in Microsoft Teams](/assets/images/posts/2021/TeamsLobby/top.jpg)Learn how to configure Lobby Meeting options in Microsoft Teams!
 
 The last time I have teams meeting on my private tenant and I had issues with the lobby. The default configuration didn't allow me to bypass the lobby and start the meeting. Why? I was interested in that case and I started an investigation on how to configure lobby on Microsoft Teams.
 
