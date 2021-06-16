@@ -22,7 +22,7 @@ About PSADT I wrote an article [Deploy fonts using PSAppDeployTookit through Mic
 So, let's start. I downloaded an MSI from the VPN Plus Server page, moved it to the Files folder on the PSADT location, and on the Installation phase I just used the command:
 
 ```powershell
-Execute-MSI -Action 'Install' -Path "$dirFiles/SynologyVPNClient.msi"
+Execute-MSI -Action 'Install' -Path "$dirFiles/SynoVPN.msi" -AddParameters "ALLUSERS=1"
 ```
 
 For the uninstallation method I provided a command:
